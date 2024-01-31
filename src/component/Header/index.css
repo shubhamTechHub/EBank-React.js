@@ -1,0 +1,18 @@
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 35px;
+}
+
+.website-logo {
+  width: 100px;
+}
+
+.logout-button {
+  border: 1px solid #f8fafc;
+  color: #ffffff;
+  padding: 4px 8px;
+  background-color: transparent;
+  cursor: pointer;
+}
